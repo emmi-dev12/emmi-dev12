@@ -68,14 +68,6 @@ I specialize in working with advanced AI coding assistants:
 
 **💡 If you have algorithm suggestions or optimizations, feel free to reach out!**
 
----
-
-## 🐍 The Snake Eats My Contributions
-
-![Snake animation](https://raw.githubusercontent.com/emmi-dev12/emmi-dev12/output/github-contribution-grid-snake.svg)
-
----
-
 <div align="center">
 
 Building the future of software development with AI 🚀
