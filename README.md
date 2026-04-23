@@ -1,14 +1,38 @@
-emmi-dev12 / emmi-dev12 / README.md
-v2
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+a+Prompt+Engineer;AI-Assisted+Developer" alt="Typing SVG" /></a>
 
 ---
 
 ## 🤖 My AI Tech Stack
 
-🔧 Prompt Engineering 💻 AI-Powered Development 🎯 Workflow Optimization 📚 Best Practices
+I specialize in working with advanced AI coding assistants:
 
-Code
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Claude%20Code-1F2937?style=for-the-badge&logo=brain&logoColor=00D9FF" alt="Claude Code" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Claude%20Cowork-1F2937?style=for-the-badge&logo=users&logoColor=00D9FF" alt="Claude Cowork" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Hermes%20AI-1F2937?style=for-the-badge&logo=sparkles&logoColor=00D9FF" alt="Hermes AI" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/OpenClaw-1F2937?style=for-the-badge&logo=claw&logoColor=00D9FF" alt="OpenClaw" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 What I Do
+
+<div align="center">
+
+```
+🔧 Prompt Engineering      💻 AI-Powered Development
+🎯 Workflow Optimization    📚 Best Practices
+```
 
 </div>
 
@@ -35,12 +59,14 @@ Code
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 👯 Collab |
+| 🔭 Working On | 🌱 Learning | 🎮 Playing With |
 |:-:|:-:|:-:|
-| AI-Assisted Projects | Advanced Prompting | Innovative AI Dev |
-| Next-Gen Workflows | Emerging AI Tools | Game-Changing Ideas |
+| AI-Assisted Projects | Advanced Prompting | Algorithms |
+| Next-Gen Workflows | Emerging AI Tools | Optimizations |
 
 </div>
+
+**💡 If you have algorithm suggestions or optimizations, feel free to reach out!**
 
 ---
 
@@ -50,24 +76,8 @@ Code
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
 Building the future of software development with AI 🚀
-
-Code
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *Feel free to reach out – let's build something amazing together!*
 
 </div>
