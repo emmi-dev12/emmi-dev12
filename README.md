@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=240&text=PRIVATE.%20FREE.%20POWERFUL.&fontColor=FFFFFF&fontSize=58&fontAlignY=46&fontAlign=50&desc=Silent%20systems.%20Clean%20loops.%20Agent-ready%20tools.&descAlignY=70&descColor=00FF88&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=240&text=PRIVATE.%20FREE.%20POWERFUL.&fontColor=FFFFFF&fontSize=62&font=Black+Han+Sans&fontAlignY=46&fontAlign=50&desc=Silent%20systems.%20Clean%20loops.%20Agent-ready%20tools.&descAlignY=70&descColor=00FF88&descSize=15" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=2" width="100%" />
 
@@ -12,13 +12,13 @@ no subscriptions, no lock-in, no surveillance. Just clean software with good UI.
 
 <br/>
 
-![](https://img.shields.io/badge/Anti--SaaS-0D1117?style=flat-square&logoColor=00FF88&color=00FF88)
+![](https://img.shields.io/badge/Anti--SaaS-131A27?style=flat-square&color=131A27&labelColor=131A27&logoColor=00FF88)
 &nbsp;
-![](https://img.shields.io/badge/Privacy--First-0D1117?style=flat-square&logoColor=00FF88&color=131A27&labelColor=131A27&logo=shieldsdotio)
+![](https://img.shields.io/badge/Privacy--First-131A27?style=flat-square&color=131A27&labelColor=131A27)
 &nbsp;
-![](https://img.shields.io/badge/Free%20%26%20Open-0D1117?style=flat-square&color=131A27&labelColor=131A27)
+![](https://img.shields.io/badge/Free%20%26%20Open-131A27?style=flat-square&color=131A27&labelColor=131A27)
 &nbsp;
-![](https://img.shields.io/badge/Switzerland-0D1117?style=flat-square&color=131A27&labelColor=131A27)
+![](https://img.shields.io/badge/Switzerland-131A27?style=flat-square&color=131A27&labelColor=131A27)
 
 <br/>
 <br/>
@@ -109,7 +109,6 @@ Everything I build is free to use. Work that isn't ready ships nowhere.
 ![](https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxt.js&logoColor=00FF88)
 ![](https://img.shields.io/badge/Node-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF88)
 ![](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF88)
-![](https://img.shields.io/badge/Convex-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=00FF88)
 
 <br/>
 
