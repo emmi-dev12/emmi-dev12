@@ -1,21 +1,13 @@
 <div align="center">
-<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&section=header" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&text=SILENT%20SYSTEMS&fontColor=FFFFFF&fontSize=80&fontAlignY=48&fontAlign=50&desc=Clean%20loops.%20Agent-ready%20tools.&descAlignY=72&descColor=00FF88&descSize=16" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=2" width="100%" />
 
 <br/>
 <br/>
 
-```
-Silent systems. Clean loops. Agent-ready tools.
-```
-
-<br/>
-
-**Solo builder from Switzerland.**  
+Solo builder from Switzerland.  
 I build private, agent-ready tools and silent interfaces.
 
 <br/>
@@ -23,57 +15,69 @@ I build private, agent-ready tools and silent interfaces.
 
 </div>
 
----
+<br/>
+
+```bash
+$ tacitus create --alias ghost@0x
+  alias created · ttl: 24h · encrypted: true · logs: none
+
+$ kugi plan --week
+  3 blocks scheduled · agent sync: ready · data: local
+```
 
 <br/>
 
-### Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=1" width="100%" />
 
 <br/>
+<br/>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="48%" valign="top">
 
-**Tacitus**  
-`Zero-knowledge disposable mail`
+**TACITUS** &nbsp; `zero-knowledge mail`
 
-The security model is the product. No accounts, no logs, no surface area. Addresses are generated, used, and forgotten. Built for contexts where exposure is not an option.
+No accounts. No logs. Addresses are generated, routed, and forgotten. The security model is the product — not a feature bolted onto it.
 
 </td>
 <td width="4%"></td>
 <td width="48%" valign="top">
 
-**Kugi**  
-`Personal bento planner`
+**KUGI** &nbsp; `personal bento planner`
 
-A planning layer built for direct agent orchestration. Structured, deterministic, owned. No cloud dependency, no third-party data access. Your schedule stays yours.
+A planning layer built for direct agent orchestration. Structured, deterministic, locally owned. Your schedule stays yours.
 
 </td>
 </tr>
 </table>
 
 <br/>
-
----
-
 <br/>
 
-### The Lab
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=1" width="100%" />
 
-Private research into high-quality security loops and deterministic agent harnesses. The goal is systems that are predictable under pressure — not just when everything goes right.
+<br/>
+<br/>
 
+**The Lab**
+
+Private research into deterministic agent harnesses and security-first system design.  
 Work that isn't ready ships nowhere.
 
 <br/>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=1" width="100%" />
 
 <br/>
 
 <div align="center">
 
-`TypeScript` &nbsp;·&nbsp; `Nuxt` &nbsp;·&nbsp; `Node` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Agent tooling`
+![](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FF88)
+![](https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxt.js&logoColor=00FF88)
+![](https://img.shields.io/badge/Node-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF88)
+![](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF88)
 
 <br/>
 
