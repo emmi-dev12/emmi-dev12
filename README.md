@@ -1,28 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&text=SILENT%20SYSTEMS&fontColor=FFFFFF&fontSize=80&fontAlignY=48&fontAlign=50&desc=Clean%20loops.%20Agent-ready%20tools.&descAlignY=72&descColor=00FF88&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=240&text=PRIVATE.%20FREE.%20POWERFUL.&fontColor=FFFFFF&fontSize=58&fontAlignY=46&fontAlign=50&desc=Silent%20systems.%20Clean%20loops.%20Agent-ready%20tools.&descAlignY=70&descColor=00FF88&descSize=15" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=2" width="100%" />
 
 <br/>
 <br/>
 
-Solo builder from Switzerland.  
-I build private, agent-ready tools and silent interfaces.
+Solo indie dev from Switzerland. I build tools that are **free**, **private**, and actually work —  
+no subscriptions, no lock-in, no surveillance. Just clean software with good UI.
+
+<br/>
+
+![](https://img.shields.io/badge/Anti--SaaS-0D1117?style=flat-square&logoColor=00FF88&color=00FF88)
+&nbsp;
+![](https://img.shields.io/badge/Privacy--First-0D1117?style=flat-square&logoColor=00FF88&color=131A27&labelColor=131A27&logo=shieldsdotio)
+&nbsp;
+![](https://img.shields.io/badge/Free%20%26%20Open-0D1117?style=flat-square&color=131A27&labelColor=131A27)
+&nbsp;
+![](https://img.shields.io/badge/Switzerland-0D1117?style=flat-square&color=131A27&labelColor=131A27)
 
 <br/>
 <br/>
 
 </div>
 
-<br/>
-
 ```bash
-$ tacitus create --alias ghost@0x
-  alias created · ttl: 24h · encrypted: true · logs: none
+$ tacitus create
+  ✓  alias  →  ghost-4x9f@tacit.us
+     encrypted    true
+     ttl          24h
+     logs         none
+     server       zero-knowledge
 
-$ kugi plan --week
-  3 blocks scheduled · agent sync: ready · data: local
+$ kugi status
+  week 21 of 2026  ·  4 focus blocks  ·  0 SaaS dependencies
+  agent sync       ready
+  data residency   local
+
+$ whoami
+  indie dev  ·  switzerland  ·  building tools people actually own
 ```
 
 <br/>
@@ -36,17 +53,17 @@ $ kugi plan --week
 <tr>
 <td width="48%" valign="top">
 
-**TACITUS** &nbsp; `zero-knowledge mail`
+**TACITUS** &nbsp; `disposable mail · zero-knowledge`
 
-No accounts. No logs. Addresses are generated, routed, and forgotten. The security model is the product — not a feature bolted onto it.
+No accounts. No logs. Generate an alias, use it, forget it. The security model isn't a feature — it's the entire product. Free forever.
 
 </td>
 <td width="4%"></td>
 <td width="48%" valign="top">
 
-**KUGI** &nbsp; `personal bento planner`
+**KUGI** &nbsp; `personal planner · agent-native`
 
-A planning layer built for direct agent orchestration. Structured, deterministic, locally owned. Your schedule stays yours.
+Bento-style planning built for direct agent orchestration. No cloud sync, no subscription, no third-party access. Your schedule stays on your machine.
 
 </td>
 </tr>
@@ -62,8 +79,8 @@ A planning layer built for direct agent orchestration. Structured, deterministic
 
 **The Lab**
 
-Private research into deterministic agent harnesses and security-first system design.  
-Work that isn't ready ships nowhere.
+High-quality security loops, deterministic agent harnesses, and interfaces that don't get in the way.  
+Everything I build is free to use. Work that isn't ready ships nowhere.
 
 <br/>
 <br/>
@@ -74,14 +91,29 @@ Work that isn't ready ships nowhere.
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=emmi-dev12&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=8B949E&bg_color=0D1117&ring_color=00FF88&include_all_commits=true&count_private=true" />
+
+&nbsp;&nbsp;
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=emmi-dev12&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=8B949E&dates=8B949E&background=0D1117&stroke=1A2332&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmi-dev12&layout=compact&hide_border=true&title_color=00FF88&text_color=8B949E&bg_color=0D1117&langs_count=6" />
+
+<br/>
+<br/>
+
 ![](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FF88)
 ![](https://img.shields.io/badge/Nuxt-0D1117?style=flat-square&logo=nuxt.js&logoColor=00FF88)
 ![](https://img.shields.io/badge/Node-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF88)
 ![](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF88)
+![](https://img.shields.io/badge/Convex-0D1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=00FF88)
 
 <br/>
 
-<sub>Switzerland &nbsp;·&nbsp; Building quietly</sub>
+<sub>Building quietly · Switzerland · everything free, nothing tracked</sub>
 
 </div>
 
